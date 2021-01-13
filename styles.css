@@ -298,6 +298,9 @@ transform: scale(1.1);
   .hobbyimg{
     width:150px;
   }
+  .footer{
+   height:50vh;
+  }
 
 }
 @media screen and (min-width:580px) and (max-width:768px){
@@ -330,9 +333,7 @@ transform: scale(1.1);
   .hobbiesheading{
     font-size:3vw;
   }
-  .footer{
-   height:50vh;
-  }
+  
 }
 @media screen and (min-width:750px) and (max-width:992px){
   .intro{
