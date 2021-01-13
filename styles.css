@@ -212,7 +212,7 @@ h3{
 
 /*-----------------------------Footer class selectors-----------------------------*/
 .footer{
-  height:35vh;
+  height:30vh;
   background-color: #555555;
   color:white;
   padding-top:10px;
@@ -227,6 +227,7 @@ h3{
 .links img:hover {
 transform: scale(1.1);
 }
+
 
 /*-----------------------------Responsive CSS-----------------------------*/
 
@@ -298,8 +299,9 @@ transform: scale(1.1);
   .hobbyimg{
     width:150px;
   }
- 
-
+ .footer{
+   height:55vh;
+ }
 }
 @media screen and (min-width:580px) and (max-width:768px){
   .intro{
