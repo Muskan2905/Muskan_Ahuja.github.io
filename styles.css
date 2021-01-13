@@ -212,7 +212,7 @@ h3{
 
 /*-----------------------------Footer class selectors-----------------------------*/
 .footer{
-  height:30vh;
+  height:35vh;
   background-color: #555555;
   color:white;
   padding-top:10px;
@@ -243,7 +243,7 @@ transform: scale(1.1);
   }
 
   .footer {
-    height:30vh;
+    height:55vh;
   }
 
 }
@@ -299,9 +299,7 @@ transform: scale(1.1);
   .hobbyimg{
     width:150px;
   }
- .footer{
-   height:55vh;
- }
+
 }
 @media screen and (min-width:580px) and (max-width:768px){
   .intro{
