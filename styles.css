@@ -212,10 +212,10 @@ h3{
 
 /*-----------------------------Footer class selectors-----------------------------*/
 .footer{
-  height:45vh;
+  height:35vh;
   background-color: #555555;
   color:white;
-  padding-top:30px;
+  padding-top:10px;
   margin-top:70px;
 }
 
