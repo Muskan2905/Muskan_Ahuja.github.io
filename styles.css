@@ -212,7 +212,7 @@ h3{
 
 /*-----------------------------Footer class selectors-----------------------------*/
 .footer{
-  height:40vh;
+  height:30vh;
   background-color: #555555;
   color:white;
   padding-top:30px;
@@ -330,7 +330,9 @@ transform: scale(1.1);
   .hobbiesheading{
     font-size:3vw;
   }
-
+  .footer{
+   height:50vh;
+  }
 }
 @media screen and (min-width:750px) and (max-width:992px){
   .intro{
