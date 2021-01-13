@@ -212,10 +212,10 @@ h3{
 
 /*-----------------------------Footer class selectors-----------------------------*/
 .footer{
-  height:30vh;
+  height:35vh;
   background-color: #555555;
   color:white;
-  padding-top:3px;
+  padding-top:10px;
   margin-top:70px;
 }
 
@@ -223,9 +223,7 @@ h3{
   width: 50px;
   margin-right: 10px;
 }
-.copyright{
-  margin-top:0;
-}
+
 .links img:hover {
 transform: scale(1.1);
 }
