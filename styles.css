@@ -146,7 +146,7 @@ h3{
   text-align: center;
 }
 .skill1{
-  background : url("../images/frontend.gif") no-repeat;
+  background : url("images/frontend.gif") no-repeat;
 }
 .skillheading{
   color:#e27802;
@@ -160,7 +160,7 @@ h3{
 }
 
 .skill2{
-  background : url("../images/coding.gif") no-repeat;
+  background : url("images/coding.gif") no-repeat;
 }
 .skill1 , .skill2{
   background-size: cover;
